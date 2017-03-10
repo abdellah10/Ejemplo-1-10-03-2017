@@ -16,6 +16,7 @@ public class Ejemplo1GitHub {
      */
     public static void main(String[] args) {
         System.out.println("Palizon del barça");
+        System.out.println("5:0 manita");
     }
     
 }
